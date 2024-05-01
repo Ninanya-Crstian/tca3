@@ -1,4 +1,5 @@
 .card{
     background-color: rgb(5, 33, 75);
     color: white;
+    size-adjust: 20px;
 }
